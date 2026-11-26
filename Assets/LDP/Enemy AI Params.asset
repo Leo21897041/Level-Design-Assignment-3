@@ -17,4 +17,4 @@ MonoBehaviour:
     speedScale_aggro: 1
     vision_maxDist_calm: 6
     vision_maxDist_aggro: 7
-    aggroLossDelay: 2
+    aggroLossDelay: 0.5
